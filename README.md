@@ -1,2 +1,2 @@
 #!/bin/bash
-Each script executes basic commands of linux
+This repository caontains the basic commands of linux \n
